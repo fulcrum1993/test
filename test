@@ -1,0 +1,12 @@
+print('Hello! Welcome to online BTC calculator!')
+class u:
+    print("Enter current $BTC price")
+    a = input()
+    print("How much $ do you have?")
+    b = input()
+    print("You can buy: ")
+    print(a*b)
+    print('to try again press any key')
+print(u)
+while x=1:
+    print (x)
